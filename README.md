@@ -1,6 +1,7 @@
 # Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions
 
 Chan, S. C. Y., Ho, Y.-W., & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. $Biological Conservation$, 297, 110690.
+
 *All authors contributed equally to this work.*
 
 ![](visualization/Fig3.png)
