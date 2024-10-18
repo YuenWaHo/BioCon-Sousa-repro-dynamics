@@ -5,6 +5,7 @@ type: "dataset"
 authors:
   - family-names: "Chan"
     given-names: "Stephen C.Y."
+    orcid: "https://orcid.org/0000-0002-0157-9574 "
     email: "scychan@cetacea-institute.org"
     affiliation: "1"
   - family-names: "Ho"
