@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions"
+type: "dataset"
+authors:
+  - family-names: "Chan"
+    given-names: "Stephen C.Y."
+    email: "scychan@cetacea-institute.org"
+    affiliation: "1"
+  - family-names: "Ho"
+    given-names: "Yuen Wa"
+    orcid: "https://orcid.org/0000-0003-1523-112X"
+    email: "hoyuenwa@cetacea-institute.org"
+    affiliation: "1"
+  - family-names: "Karczmarski"
+    given-names: "Leszek"
+    orcid: "https://orcid.org/0000-0001-9712-1172"
+    email: "leszek@cetacea-institute.org"
+    affiliation: "1"
+
+affiliations:
+  - name: "Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong"
+    index: 1
+
+date-released: 2024-06-14
