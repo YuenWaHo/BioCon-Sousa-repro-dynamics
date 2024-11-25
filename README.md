@@ -4,7 +4,7 @@ Chan, S.C.Y., Ho, Y.-W., & Karczmarski, L. (2024). Reproductive dynamics of an i
 [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
 
 ![](Figure/Fig3.png)
-(A) Crude birth rate (CBR) and (B) annual recruitment rate (ARR) of Indo-Pacific humpback dolphins estimated using frequentist (red) and Bayesian (blue) statistical techniques. OLS regression models indicate that both CBR and ARR declined significantly following the onset of construction activities. Note that the time interval of ARR (the ratio of births surviving to the age of 1 y.o.) lags that of CBR by 1 year, and ARR is not available for the first year (year 2010). For both CBR and ARR, the mean values by frequentist and Bayesian methods are virtually identical (see the numeric values in Appendix Table A2); therefore, only the Bayesian mean (horizontal black dashed line) is displayed to avoid overlapping lines. 95% HDI: 95% highest density interval; R2: correlation coefficient; r: annual rate of change.
+Crude birth rate (CBR) and annual recruitment rate (ARR) of Indo-Pacific humpback dolphins estimated using frequentist (red) and Bayesian (blue) statistical techniques. OLS regression models indicate that both CBR and ARR declined significantly following the onset of construction activities.
 
 # Abstract
 
@@ -12,16 +12,14 @@ In fast-developing regions, rapid coastal urbanization has led to considerable t
 
 ## Software implementation
 
-All source code used to generate the results and figures in the paper are in the `analysis.ipynb`.
+All source code used for analysis and figure generation in this study is available in `analysis.ipynb`. The notebook includes scripts for both frequentist and Bayesian statistical analyses, providing a comprehensive view of the methods applied to assess the impact of coastal constructions on dolphin demographics.
 
 ## Data Availability
 
-The analytical code supporting the findings of this study are provided in the `analysis.ipynb`. For interim data requests or metadata inquiries, please contact [Yuen-Wa Ho](hoyuenwa@cetacea-institute.org).
+The analytical code supporting our findings is included in this repository. For additional information or data requests, please contact the Cetacea Research Institute:
 
-## Authors
-
-For any queries or further information, please reach out to [Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri):
-
-- [Stephen C.Y. Chan ](mailto:scychan@cetacea-institute.org)
+- [Stephen C.Y. Chan](mailto:scychan@cetacea-institute.org)
 - [Yuen-Wa Ho](mailto:hoyuenwa@cetacea-institute.org)
 - [Leszek Karczmarski](mailto:leszek@cetacea-institute.org)
+
+[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri)
