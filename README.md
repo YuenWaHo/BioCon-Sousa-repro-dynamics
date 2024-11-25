@@ -22,5 +22,3 @@ The analytical code supporting our findings is included in this repository. For 
 - [Stephen C.Y. Chan](mailto:scychan@cetacea-institute.org)
 - [Yuen-Wa Ho](mailto:hoyuenwa@cetacea-institute.org)
 - [Leszek Karczmarski](mailto:leszek@cetacea-institute.org)
-
-[![Cetacea Research Institute](https://drive.google.com/open?id=1gzmHyEFkXSYrVML-vrCdA3klXZSnC-jT&usp=drive_fs)](https://www.hku-cetacean-ecology.net/cri)
