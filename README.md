@@ -17,7 +17,7 @@ All source code used for analysis and figure generation in this study is availab
 
 ## Data Availability
 
-The analytical code supporting our findings is included in this repository. For additional information or data requests, please contact the Cetacea Research Institute:
+The analytical code supporting our findings is included in this repository. For additional information or data requests, please contact the authors at Cetacea Research Institute:
 
 - [Stephen C.Y. Chan](mailto:scychan@cetacea-institute.org)
 - [Yuen-Wa Ho](mailto:hoyuenwa@cetacea-institute.org)
