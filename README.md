@@ -2,7 +2,7 @@
 
 # Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions
 
-Chan, S.C.Y., Ho, Y.-W., & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_, 297, 110690.
+Chan, S.C.Y.\#, Ho, Y.-W.\#, & Karczmarski, L.\# (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_, 297, 110690.
 
 ![](Figure/Fig3.png)
 Crude birth rate (CBR) and annual recruitment rate (ARR) of Indo-Pacific humpback dolphins estimated using frequentist (red) and Bayesian (blue) statistical techniques. OLS regression models indicate that both CBR and ARR declined significantly following the onset of construction activities.
