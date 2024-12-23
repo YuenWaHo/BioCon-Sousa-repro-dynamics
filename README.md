@@ -22,3 +22,7 @@ The analytical code supporting our findings is included in this repository. For 
 - [Stephen C.Y. Chan](mailto:scychan@cetacea-institute.org)
 - [Yuen-Wa Ho](mailto:hoyuenwa@cetacea-institute.org)
 - [Leszek Karczmarski](mailto:leszek@cetacea-institute.org)
+
+## Citation
+
+Chan, S.C.Y.\#, Ho, Y.-W.\#, & Karczmarski, L.\# (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_, 297, 110690.
